@@ -23,6 +23,10 @@ The footnote you should include for reaching the dataset:
 
 ## Files Included
 
-TODO
+The following files are included: 
+1. `detailed_data.csv`
+2. `original_data.csv`
+3. TODO
 
 ## About the Dataset
+
