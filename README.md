@@ -11,7 +11,7 @@ When utilizing this dataset, please cite this paper and include the repository U
   author={Doyle, D{\'o}nal},
   year={2005},
   school={University of Dublin, Trinity College. Department of Computer Science},
-  note={Available at \url{http://www.tara.tcd.ie/handle/2262/847}}
+  note={Dataset at \url{https://github.com/gateslm/Blood-Alcohol-Domain}. Thesis at \url{http://www.tara.tcd.ie/handle/2262/847}.}
 }
 ```
 
