@@ -1,7 +1,7 @@
 # Blood-Alcohol-Domain
 Blood Alcohol Domain with additional files about processing and background information. 
 
-We were provided permission byu the authors of the data set to make it publicly accessible. 
+We were provided permission by the authors of the data set to make it publicly accessible. 
 
 ## Referencing the Dataset
 
@@ -52,7 +52,7 @@ There are 8 possible values from 1 to 8, correspoinding to weight ranges (100-11
 Ranges between 1 to 14 drinks (inclusive). It is the amount of drinks consumed. 
 
 ### Meal
-The meal attribute referes to the amount an indiviaul ate while drinking: full meal, snack, and none. 
+The meal attribute refers to the amount an indiviaul ate while drinking: full meal, snack, and none. 
 
 ### Duration
 Duration is the amount of time the person drank alcohol. Duration was either 30, 60, 90, 120, 150, 180, 210 or 240 minutes. 
