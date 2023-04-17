@@ -8,13 +8,7 @@ We were provided permission by the authors of the data set to make it publicly a
 When utilizing this dataset, please cite this paper and include the repository URL in a footnote for future researchers to find as well. 
 
 ```tex
-@phdthesis{doyle05,
-  title={A knowledge-light mechanism for explanation in case-based reasoning},
-  author={Doyle, D{\'o}nal},
-  year={2005},
-  school={University of Dublin, Trinity College. Department of Computer Science},
-  note={Dataset at \url{https://github.com/gateslm/Blood-Alcohol-Domain}. Thesis at \url{http://www.tara.tcd.ie/handle/2262/847}.}
-}
+TODO
 ```
 
 The footnote you should include for reaching the dataset:
@@ -33,7 +27,17 @@ The `csv` file has a header to detail which column is which feature.
 
 ## About the Dataset
 
-The dataset is from the D. Doyle Thesis cited above. The additional information we found about the dataset is at the following links:
+```tex
+@phdthesis{doyle05,
+  title={A knowledge-light mechanism for explanation in case-based reasoning},
+  author={Doyle, D{\'o}nal},
+  year={2005},
+  school={University of Dublin, Trinity College. Department of Computer Science},
+  note={Thesis at \url{http://www.tara.tcd.ie/handle/2262/847}.}
+}
+```
+
+The dataset is from the D. Doyle Thesis (BibTex above). The additional information we found about the dataset is at the following links:
 - [Abstract of Project](https://web.archive.org/web/20010826182630/http://www.cs.tcd.ie/~doylemi/abstract.html)
 - [Feature Description](https://web.archive.org/web/20010722131007fw_/http://www.maths.tcd.ie/~mdoyle/java/javahtml/form.html)
 - [Blood Alcohol Content Table](https://web.archive.org/web/20010722131337fw_/http://www.maths.tcd.ie/~mdoyle/java/javahtml/table.html)
