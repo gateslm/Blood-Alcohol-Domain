@@ -1,14 +1,20 @@
 # Blood-Alcohol-Domain
 Blood Alcohol Domain with additional files about processing and background information. 
 
-We were provided permission by the authors of the data set to make it publicly accessible. 
+We were provided permission by the authors (Lorcan Coyle, Pádraig Cunningham, Dónal Doyle) of the data set to make it publicly accessible. 
 
 ## Referencing the Dataset
 
 When utilizing this dataset, please cite this paper and include the repository URL in a footnote for future researchers to find as well. 
 
 ```tex
-TODO
+@misc{BAC23,
+  title = {Blood Alcohol Content Domain},
+  howpublished={\url{https://github.com/gateslm/Blood-Alcohol-Domain}}, 
+  year = {2023},
+  url={https://github.com/gateslm/Blood-Alcohol-Domain}, 
+  author = {Doyle, D{\'o}nal and Cunningham, P{\'a}draig, and Coyle, Lorcan}
+}
 ```
 
 The footnote you should include for reaching the dataset:
