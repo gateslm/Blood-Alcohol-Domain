@@ -16,13 +16,6 @@ When utilizing this dataset, please cite this paper and include the repository U
   author = {Doyle, D{\'o}nal and Cunningham, P{\'a}draig, and Coyle, Lorcan}
 }
 ```
-
-The footnote you should include for reaching the dataset:
-
-```tex
-\footnote{GitHub Link: \url{https://github.com/gateslm/Blood-Alcohol-Domain}}
-```
-
 ## Files Included
 
 The following files are included: 
